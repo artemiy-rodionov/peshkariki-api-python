@@ -1,0 +1,9 @@
+requests
+
+pytest
+pytest-mock
+freezegun
+
+pycodestyle
+pyflakes
+flake8
